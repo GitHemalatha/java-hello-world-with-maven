@@ -36,3 +36,4 @@ $ mvn archetype:generate \
 ```
 
 ## Execute the project
+Testing
